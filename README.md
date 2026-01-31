@@ -124,5 +124,3 @@ Through this assignment, I learned:
 - How to document technical work using README files  
 
 ---
-
-✅ **Assignment successfully submitted on the `ByiringiroAmani_29494` branch**
